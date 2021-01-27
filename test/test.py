@@ -4,6 +4,7 @@ import os
 
 test_images_path = 'test_files'
 
+
 visualization = False
 try:
     import cv2
